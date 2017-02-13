@@ -1,0 +1,8 @@
+# Runtime requirements for developing / testing transforms3d
+# Use with:
+#   pip install -r dev-requirements.txt
+#
+# Include run-time requirements
+-r requirements.txt
+sympy
+nose
